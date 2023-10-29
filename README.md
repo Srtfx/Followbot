@@ -1,2 +1,0 @@
-# Followbot
-IGTiktokTwitchKickBot
